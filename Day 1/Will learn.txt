@@ -1,0 +1,12 @@
+- HTML
+- CSS
+- Intermediate CSS
+- Javascript
+- Git
+- Bootstrap 4
+- Node, Mongo, REST APIs - Back end 
+- React
+
+CSS
+- CLass in CSS with: .
+- ID in CSS with: #
